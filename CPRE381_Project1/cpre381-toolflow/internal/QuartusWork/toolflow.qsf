@@ -1,0 +1,56 @@
+
+#
+# CprE 381 Generated Quartus Settings File
+#
+
+set_global_assignment -name FAMILY "Cyclone IV E"
+set_global_assignment -name DEVICE EP4CE115F29C7
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION 21.1.1
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "19:07:08  JANUARY 28, 2019"
+set_global_assignment -name LAST_QUARTUS_VERSION "21.1.1 Standard Edition"
+set_global_assignment -name PROJECT_OUTPUT_DIRECTORY output_files
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_global_assignment -name TOP_LEVEL_ENTITY MIPS_Processor
+set_global_assignment -name VHDL_INPUT_VERSION VHDL_2008
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/Adder.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/MIPS_Reg_File1.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/MIPS_types.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/Multiplier.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/PC.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/TopLevel/MIPS_Processor.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/TopLevel/mem.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/adderSub_N.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/adder_N.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/andg2.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/andg_N.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/barrelShifter.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/beq.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/bne.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/branchUnit.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/controlUnit.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/decoder5to32.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/df_mux2t1.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/dffg.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/dffg_N.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/extender.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/fetchUnit.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/fullAdder.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/invg.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/logicalOpsUnit.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/lui.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux2t1.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux2t1_6.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux2t1_N.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux32t1.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/norg2.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/norg_N.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/onesComp.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/org2.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/org_N.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/replqb.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/slt.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/upgradedALU.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/xorg2.vhd"
+set_global_assignment -name VHDL_FILE "/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/xorg_N.vhd"

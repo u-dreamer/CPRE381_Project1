@@ -1,0 +1,1601 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/test
+Eadder
+Z1 w1578332330
+Z2 DPx3 std 6 textio 0 22 LS[?81n5ZHWBI9JkBZTV<2
+Z3 DPx4 ieee 14 std_logic_1164 0 22 6<US`=mgl_dFdCEFF7J=m1
+!i122 41
+R0
+Z4 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/Adder.vhd
+Z5 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/Adder.vhd
+l0
+Z6 L26 1
+V=mi5_=N]ZU=Ge0CznD>>H3
+!s100 I7A>njHe2:W8IZC]dG6j20
+Z7 OL;C;2022.2;75
+32
+Z8 !s110 1670209005
+!i10b 1
+Z9 !s108 1670209005.000000
+Z10 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/Adder.vhd|
+Z11 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/Adder.vhd|
+!i113 0
+Z12 o-work work
+Z13 tExplicit 1 CvgOpt 0
+Abehavior
+R2
+R3
+DEx4 work 5 adder 0 22 =mi5_=N]ZU=Ge0CznD>>H3
+!i122 41
+l36
+Z14 L35 11
+V_gXogG?B2DDYFGk[AU0j73
+!s100 8hVGk<>zE4m05O5ETH9Ca1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Eadder_n
+Z15 w1664550383
+R2
+R3
+!i122 42
+R0
+Z16 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/adder_N.vhd
+Z17 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/adder_N.vhd
+l0
+Z18 L13 1
+V:BMMZTZ>2K6]BBAelZjDa0
+!s100 [>_:hPHZZedD^BU?@I3PI0
+R7
+32
+R8
+!i10b 1
+R9
+Z19 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/adder_N.vhd|
+Z20 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/adder_N.vhd|
+!i113 0
+R12
+R13
+Astructural
+R2
+R3
+DEx4 work 7 adder_n 0 22 :BMMZTZ>2K6]BBAelZjDa0
+!i122 42
+l35
+L23 44
+V>]?D9Y4_[Vcz42a=>E;R51
+!s100 LV81IYbY@224NY`[gF]TU3
+R7
+32
+R8
+!i10b 1
+R9
+R19
+R20
+!i113 0
+R12
+R13
+Eaddersub_n
+Z21 w1667576693
+R2
+R3
+!i122 43
+R0
+Z22 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/adderSub_N.vhd
+Z23 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/adderSub_N.vhd
+l0
+Z24 L14 1
+VZ6N6jXSAF_1m0HNaiZIUV1
+!s100 IQWIg_9Fi7=FJ9MSYIP;K2
+R7
+32
+R8
+!i10b 1
+R9
+Z25 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/adderSub_N.vhd|
+Z26 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/adderSub_N.vhd|
+!i113 0
+R12
+R13
+Astructure
+R2
+R3
+DEx4 work 10 addersub_n 0 22 Z6N6jXSAF_1m0HNaiZIUV1
+!i122 43
+l71
+L26 95
+V]CiHbM`Cd=YSUBJ=M7k7c2
+!s100 8]mU6g6:_dWm;b70iEIA50
+R7
+32
+R8
+!i10b 1
+R9
+R25
+R26
+!i113 0
+R12
+R13
+Eandg2
+Z27 w1575899276
+R2
+R3
+!i122 44
+R0
+Z28 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/andg2.vhd
+Z29 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/andg2.vhd
+l0
+Z30 L23 1
+VQf>?20ho>9XHGTg4:jo373
+!s100 0e<Rg^QbB^Y@JP[zKSc0[3
+R7
+32
+R8
+!i10b 1
+R9
+Z31 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/andg2.vhd|
+Z32 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/andg2.vhd|
+!i113 0
+R12
+R13
+Adataflow
+R2
+R3
+DEx4 work 5 andg2 0 22 Qf>?20ho>9XHGTg4:jo373
+!i122 44
+l32
+Z33 L31 6
+VHdBJDB9no8cjMZ2eVYWH;1
+!s100 CbBW?3Q;N[15?`QCEQ<@f2
+R7
+32
+R8
+!i10b 1
+R9
+R31
+R32
+!i113 0
+R12
+R13
+Eandg_n
+Z34 w1667235254
+R2
+R3
+!i122 45
+R0
+Z35 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/andg_N.vhd
+Z36 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/andg_N.vhd
+l0
+Z37 L17 1
+VZ34BWdBS4kYA_bnY_cJn03
+!s100 <nm2Obo_XBGB03cih]1CY2
+R7
+32
+R8
+!i10b 1
+R9
+Z38 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/andg_N.vhd|
+Z39 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/andg_N.vhd|
+!i113 0
+R12
+R13
+Astructural
+R2
+R3
+DEx4 work 6 andg_n 0 22 Z34BWdBS4kYA_bnY_cJn03
+!i122 45
+l32
+Z40 L24 17
+V9N3oQ4<EnBA;2UnZag]`@1
+!s100 jaDnb74X15gI;1U;Ph6Gi0
+R7
+32
+R8
+!i10b 1
+R9
+R38
+R39
+!i113 0
+R12
+R13
+Ebarrelshifter
+w1667532143
+R2
+R3
+!i122 46
+R0
+8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/barrelShifter.vhd
+F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/barrelShifter.vhd
+l0
+Z41 L16 1
+VWk8^UIG:kS94fXH=6@PMG2
+!s100 9h7XIoFNM5mJ5E[EhT`jL2
+R7
+32
+Z42 !s110 1670209007
+!i10b 1
+Z43 !s108 1670209007.000000
+!s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/barrelShifter.vhd|
+!s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/barrelShifter.vhd|
+!i113 0
+R12
+R13
+Ebeq
+Z44 w1667573616
+R2
+R3
+!i122 47
+R0
+Z45 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/beq.vhd
+Z46 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/beq.vhd
+l0
+Z47 L15 1
+V1?mb6i7ZzEF=dBfd`QW9W0
+!s100 @XdQE^<gY[AC[[AAK_QG:2
+R7
+32
+R42
+!i10b 1
+R43
+Z48 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/beq.vhd|
+Z49 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/beq.vhd|
+!i113 0
+R12
+R13
+Adataflow
+R2
+R3
+DEx4 work 3 beq 0 22 1?mb6i7ZzEF=dBfd`QW9W0
+!i122 47
+l24
+Z50 L22 8
+VClRZmGj5]]]LhOZnd1OMD0
+!s100 g_nMfzEofWNgX77]?1=o=1
+R7
+32
+R42
+!i10b 1
+R43
+R48
+R49
+!i113 0
+R12
+R13
+Ebne
+R44
+R2
+R3
+!i122 48
+R0
+Z51 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/bne.vhd
+Z52 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/bne.vhd
+l0
+R47
+VJ3BUNd9NaS8n;`NB[GEV@3
+!s100 dYPTK0TUTU^h0Eef;eD[h0
+R7
+32
+R42
+!i10b 1
+R43
+Z53 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/bne.vhd|
+Z54 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/bne.vhd|
+!i113 0
+R12
+R13
+Adataflow
+R2
+R3
+DEx4 work 3 bne 0 22 J3BUNd9NaS8n;`NB[GEV@3
+!i122 48
+l24
+R50
+V?PNJij1PA:Y^F[8]8G>om2
+!s100 Nkl9`0V;>XcAH0XYJoTV<1
+R7
+32
+R42
+!i10b 1
+R43
+R53
+R54
+!i113 0
+R12
+R13
+Ebranchunit
+R44
+R2
+R3
+!i122 49
+R0
+Z55 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/branchUnit.vhd
+Z56 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/branchUnit.vhd
+l0
+R41
+VJaO^alBBLM=>CCT6focd62
+!s100 cmackW63^@z^IC[`IWz3]0
+R7
+32
+R42
+!i10b 1
+R43
+Z57 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/branchUnit.vhd|
+Z58 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/branchUnit.vhd|
+!i113 0
+R12
+R13
+Astructure
+R2
+R3
+DEx4 work 10 branchunit 0 22 JaO^alBBLM=>CCT6focd62
+!i122 49
+l50
+L25 50
+V5FPijTkj5E3DYGeg=:LjV2
+!s100 L2_WO=jiW6ULJYQoOH]EF1
+R7
+32
+R42
+!i10b 1
+R43
+R57
+R58
+!i113 0
+R12
+R13
+Econtrolunit
+w1670208729
+R2
+R3
+!i122 50
+R0
+8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/controlUnit.vhd
+F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/controlUnit.vhd
+l0
+R18
+V[^AYZBSfzQ3gTfL_Y[JF92
+!s100 Z6f5KWO?i9EL<NOTfahXS1
+R7
+32
+R42
+!i10b 1
+R43
+!s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/controlUnit.vhd|
+!s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/controlUnit.vhd|
+!i113 0
+R12
+R13
+Edecoder5to32
+Z59 w1664228761
+R2
+R3
+!i122 51
+R0
+Z60 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/decoder5to32.vhd
+Z61 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/decoder5to32.vhd
+l0
+Z62 L20 1
+Vmg3L5R9haikaNzmOeD@X@3
+!s100 AL@`:DzUeSX`H4POn>KAW3
+R7
+32
+R42
+!i10b 1
+R43
+Z63 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/decoder5to32.vhd|
+Z64 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/decoder5to32.vhd|
+!i113 0
+R12
+R13
+Adataflow
+R2
+R3
+DEx4 work 12 decoder5to32 0 22 mg3L5R9haikaNzmOeD@X@3
+!i122 51
+l26
+L25 38
+VKS[6AU;JAOI^57iBP6bB>3
+!s100 GXX4g:MT<>Gbm`oD3WVdg0
+R7
+32
+R42
+!i10b 1
+R43
+R63
+R64
+!i113 0
+R12
+R13
+Edf_mux2t1
+Z65 w1662412674
+R2
+R3
+!i122 52
+R0
+Z66 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/df_mux2t1.vhd
+Z67 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/df_mux2t1.vhd
+l0
+R30
+VBQl6V839zCOUM_`9i988i0
+!s100 fgVP4E5[eJ=gQlbDRBSkh0
+R7
+32
+Z68 !s110 1670209008
+!i10b 1
+Z69 !s108 1670209008.000000
+Z70 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/df_mux2t1.vhd|
+Z71 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/df_mux2t1.vhd|
+!i113 0
+R12
+R13
+Adf_2t1
+R2
+R3
+DEx4 work 9 df_mux2t1 0 22 BQl6V839zCOUM_`9i988i0
+!i122 52
+l32
+R33
+V@CUG;h_^7Ji?=0@meHSdC3
+!s100 JK^PN@_BnTTYPZ]G7[oQJ3
+R7
+32
+R68
+!i10b 1
+R69
+R70
+R71
+!i113 0
+R12
+R13
+Edffg
+Z72 w1663268743
+R2
+R3
+!i122 53
+R0
+Z73 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/dffg.vhd
+Z74 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/dffg.vhd
+l0
+R30
+VaBn<3_7oIgIleFniVim733
+!s100 FJQDe;FGDG0KnNV;j4DaY2
+R7
+32
+Z75 !s110 1670209010
+!i10b 1
+Z76 !s108 1670209010.000000
+Z77 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/dffg.vhd|
+Z78 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/dffg.vhd|
+!i113 0
+R12
+R13
+Amixed
+R2
+R3
+DEx4 work 4 dffg 0 22 aBn<3_7oIgIleFniVim733
+!i122 53
+l37
+L33 29
+VS_P?KDWPHzz@YT_fABo?Z0
+!s100 GR5ff]ZD1Yiz`>ZFVE>Hg1
+R7
+32
+R75
+!i10b 1
+R76
+R77
+R78
+!i113 0
+R12
+R13
+Edffg_n
+Z79 w1664500214
+Z80 DPx4 ieee 11 numeric_std 0 22 F8@]:i<mFK7<TjIzKcTGi0
+R2
+R3
+!i122 54
+R0
+Z81 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/dffg_N.vhd
+Z82 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/dffg_N.vhd
+l0
+R62
+VJMi;a`L[2z4nkg]Je0<M[2
+!s100 PO7eoXlgLj=l5^3V?>gG?3
+R7
+32
+R75
+!i10b 1
+R76
+Z83 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/dffg_N.vhd|
+Z84 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/dffg_N.vhd|
+!i113 0
+R12
+R13
+Astructural
+R80
+R2
+R3
+DEx4 work 6 dffg_n 0 22 JMi;a`L[2z4nkg]Je0<M[2
+!i122 54
+l39
+L29 24
+VT48U0?<ECOi@f>BOUBh`k3
+!s100 DOL]>XnGQ1<YPbM9nEz[10
+R7
+32
+R75
+!i10b 1
+R76
+R83
+R84
+!i113 0
+R12
+R13
+Eextender
+Z85 w1668618041
+R2
+R3
+!i122 55
+R0
+Z86 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/extender.vhd
+Z87 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/extender.vhd
+l0
+R24
+VK>9o6iBc5JPWHkdE;Sb4Q0
+!s100 zaX9N^C0KAXBQXZbIgPAZ3
+R7
+32
+R75
+!i10b 1
+R76
+Z88 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/extender.vhd|
+Z89 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/extender.vhd|
+!i113 0
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 8 extender 0 22 K>9o6iBc5JPWHkdE;Sb4Q0
+!i122 55
+l25
+L24 7
+VYVl3zRDnTMY3bUf;MkiYS2
+!s100 Md0>o^dEbFKzMmAo>g]XO2
+R7
+32
+R75
+!i10b 1
+R76
+R88
+R89
+!i113 0
+R12
+R13
+Efetchunit
+Z90 w1670188061
+R2
+R3
+!i122 56
+R0
+Z91 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/fetchUnit.vhd
+Z92 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/fetchUnit.vhd
+l0
+R18
+VIITULKC_O@^mXjHOSJ0Mo0
+!s100 Wjee1>2=KJ?jDM:fNVPj<1
+R7
+32
+R75
+!i10b 1
+R76
+Z93 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/fetchUnit.vhd|
+Z94 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/fetchUnit.vhd|
+!i113 0
+R12
+R13
+Astructural
+R2
+R3
+DEx4 work 9 fetchunit 0 22 IITULKC_O@^mXjHOSJ0Mo0
+!i122 56
+l61
+L30 100
+V^1V^>A>U;[_Gm]d297kPo2
+!s100 chRKZWEG`jZ4KH1?YK[N=1
+R7
+32
+R75
+!i10b 1
+R76
+R93
+R94
+!i113 0
+R12
+R13
+Efulladder
+Z95 w1662564724
+R2
+R3
+!i122 57
+R0
+Z96 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/fullAdder.vhd
+Z97 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/fullAdder.vhd
+l0
+R24
+V4BEbfkneF^?UG:zDSZKdW1
+!s100 Hi6;cMh=DP]OZU2hNM=XB0
+R7
+32
+R75
+!i10b 1
+R76
+Z98 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/fullAdder.vhd|
+Z99 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/fullAdder.vhd|
+!i113 0
+R12
+R13
+Astructure
+R2
+R3
+DEx4 work 9 fulladder 0 22 4BEbfkneF^?UG:zDSZKdW1
+!i122 57
+l57
+L25 69
+VV7;ALA^[BJ4=5IaHOaoiX0
+!s100 dgc]eZf=@lTNm42UME`UU1
+R7
+32
+R75
+!i10b 1
+R76
+R98
+R99
+!i113 0
+R12
+R13
+Einvg
+R27
+R2
+R3
+!i122 58
+R0
+Z100 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/invg.vhd
+Z101 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/invg.vhd
+l0
+R30
+V]eXOe]3lZ=l7S8@9?:L9T1
+!s100 5^0jfQ^dVk:bl_Za_KajG0
+R7
+32
+R75
+!i10b 1
+R76
+Z102 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/invg.vhd|
+Z103 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/invg.vhd|
+!i113 0
+R12
+R13
+Adataflow
+R2
+R3
+DEx4 work 4 invg 0 22 ]eXOe]3lZ=l7S8@9?:L9T1
+!i122 58
+l31
+L30 6
+Ve`;fA[BQP?1Y52gl`N_a?3
+!s100 Q?`9^ToWC]zk1[=<LdPdE3
+R7
+32
+R75
+!i10b 1
+R76
+R102
+R103
+!i113 0
+R12
+R13
+Elogicalopsunit
+Z104 w1670017424
+R2
+R3
+!i122 59
+R0
+Z105 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/logicalOpsUnit.vhd
+Z106 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/logicalOpsUnit.vhd
+l0
+R47
+V@oSXEbLX_oc]G3FJ`eL=o0
+!s100 Ylzjf:HUI]S4cPmz8T>2i2
+R7
+32
+R75
+!i10b 1
+R76
+Z107 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/logicalOpsUnit.vhd|
+Z108 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/logicalOpsUnit.vhd|
+!i113 0
+R12
+R13
+Amixed
+R2
+R3
+DEx4 work 14 logicalopsunit 0 22 @oSXEbLX_oc]G3FJ`eL=o0
+!i122 59
+l101
+L24 143
+VYj[gF3l0S1N;m>FcEHVGM0
+!s100 mSFTJW2z>2VSFza=d89n33
+R7
+32
+R75
+!i10b 1
+R76
+R107
+R108
+!i113 0
+R12
+R13
+Elui
+Z109 w1670185750
+R2
+R3
+!i122 60
+R0
+Z110 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/lui.vhd
+Z111 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/lui.vhd
+l0
+R47
+V1_0;RKHULT3J01NQ6mPo?3
+!s100 ``=LHcX0oC?B;m;3:fOfS3
+R7
+32
+Z112 !s110 1670209012
+!i10b 1
+Z113 !s108 1670209012.000000
+Z114 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/lui.vhd|
+Z115 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/lui.vhd|
+!i113 0
+R12
+R13
+Adataflow
+R2
+R3
+DEx4 work 3 lui 0 22 1_0;RKHULT3J01NQ6mPo?3
+!i122 60
+l27
+L21 12
+V6M[6cbnn4<ocKdY2MF5JB0
+!s100 3F]`hDiNHF25L^zV9L5T92
+R7
+32
+R112
+!i10b 1
+R113
+R114
+R115
+!i113 0
+R12
+R13
+Emips_reg_addersub1
+w1664680420
+R2
+R3
+!i122 22
+R0
+8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/MIPS_Reg_AdderSub1.vhd
+F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/MIPS_Reg_AdderSub1.vhd
+l0
+R41
+VandFn7FbV^mhYe`mPD9ga2
+!s100 k[>>jM8SL0889OL]a4eSE1
+R7
+32
+!s110 1670208970
+!i10b 1
+!s108 1670208970.000000
+!s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/MIPS_Reg_AdderSub1.vhd|
+!s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/MIPS_Reg_AdderSub1.vhd|
+!i113 0
+R12
+R13
+Emips_reg_file1
+Z116 w1670045411
+R2
+R3
+!i122 61
+R0
+Z117 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/MIPS_Reg_File1.vhd
+Z118 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/MIPS_Reg_File1.vhd
+l0
+L18 1
+V?RigUG=[2jndCH_cd;Zh[0
+!s100 nHIkb[Q2H8jXBk4411Z2i0
+R7
+32
+R112
+!i10b 1
+R113
+Z119 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/MIPS_Reg_File1.vhd|
+Z120 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/MIPS_Reg_File1.vhd|
+!i113 0
+R12
+R13
+Astructure
+R2
+R3
+DEx4 work 14 mips_reg_file1 0 22 ?RigUG=[2jndCH_cd;Zh[0
+!i122 61
+l133
+L32 209
+VLH5V2UgYUKEhkgcBjVK7z0
+!s100 7ZZdXFAPbTQ7EeKd>SH4^1
+R7
+32
+R112
+!i10b 1
+R113
+R119
+R120
+!i113 0
+R12
+R13
+Pmips_types
+R2
+R3
+!i122 62
+Z121 w1668615877
+R0
+Z122 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/MIPS_types.vhd
+Z123 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/MIPS_types.vhd
+l0
+L15 13
+VhZBUW]HhDM2h1hJhif=>>3
+!s100 Zhic[8Ck_NUcnioRmZLWb2
+R7
+32
+R112
+!i10b 1
+R113
+Z124 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/MIPS_types.vhd|
+Z125 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/MIPS_types.vhd|
+!i113 0
+R12
+R13
+Bbody
+DPx4 work 10 mips_types 0 22 hZBUW]HhDM2h1hJhif=>>3
+R2
+R3
+!i122 62
+l0
+L29 3
+V9iY8fCz4eYFUlAcKE=Z0C0
+!s100 ;m9aHiUa@zM37M9gRzA3:0
+R7
+32
+R112
+!i10b 1
+R113
+R124
+R125
+!i113 0
+R12
+R13
+Emultiplier
+R1
+R2
+R3
+!i122 63
+R0
+Z126 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/Multiplier.vhd
+Z127 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/Multiplier.vhd
+l0
+R6
+Vb]V9ikc?MmVh6aY11R4Oo2
+!s100 ^MHRih?aY<Omkn@dEhXM40
+R7
+32
+R112
+!i10b 1
+R113
+Z128 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/Multiplier.vhd|
+Z129 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/Multiplier.vhd|
+!i113 0
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 10 multiplier 0 22 b]V9ikc?MmVh6aY11R4Oo2
+!i122 63
+l36
+R14
+Vf^=hj@M9[[n7QPiE6aHJ<1
+!s100 K^malI_WgOe]RNP4MBI<?0
+R7
+32
+R112
+!i10b 1
+R113
+R128
+R129
+!i113 0
+R12
+R13
+Emux2t1
+Z130 w1662738986
+R2
+R3
+!i122 64
+R0
+Z131 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux2t1.vhd
+Z132 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux2t1.vhd
+l0
+Z133 L21 1
+VJQ^N]kKmQl`=0R@ncz^oz3
+!s100 :1FNoVFMAQN``j8>X13fb0
+R7
+32
+R112
+!i10b 1
+R113
+Z134 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux2t1.vhd|
+Z135 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux2t1.vhd|
+!i113 0
+R12
+R13
+Astructure
+R2
+R3
+DEx4 work 6 mux2t1 0 22 JQ^N]kKmQl`=0R@ncz^oz3
+!i122 64
+l61
+L30 63
+VeiGZSgcRUPd=hHUX<`d_K3
+!s100 nDBLMQTAUH=BM^nf=2NCm1
+R7
+32
+R112
+!i10b 1
+R113
+R134
+R135
+!i113 0
+R12
+R13
+Emux2t1_6
+Z136 w1669742270
+R2
+R3
+!i122 65
+R0
+Z137 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux2t1_6.vhd
+Z138 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux2t1_6.vhd
+l0
+R37
+VM742I@dbDL>NMb2Omk0UO0
+!s100 `Q<MENY420>LVXP5dJVC72
+R7
+32
+R112
+!i10b 1
+R113
+Z139 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux2t1_6.vhd|
+Z140 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux2t1_6.vhd|
+!i113 0
+R12
+R13
+Astructural
+R2
+R3
+DEx4 work 8 mux2t1_6 0 22 M742I@dbDL>NMb2Omk0UO0
+!i122 65
+l35
+Z141 L26 21
+V4eamBNWn3<m2_7ECjzfX;1
+!s100 ;X^2O6K>>23I9gkHnoM[Z3
+R7
+32
+R112
+!i10b 1
+R113
+R139
+R140
+!i113 0
+R12
+R13
+Emux2t1_n
+Z142 w1670045770
+R2
+R3
+!i122 66
+R0
+Z143 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux2t1_N.vhd
+Z144 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux2t1_N.vhd
+l0
+R37
+VXL0fNWmo_hcIF^7_9AzT?2
+!s100 Hf7Hibjl02_QNH<6V;M6a1
+R7
+32
+Z145 !s110 1670209013
+!i10b 1
+R113
+Z146 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux2t1_N.vhd|
+Z147 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux2t1_N.vhd|
+!i113 0
+R12
+R13
+Astructural
+R2
+R3
+DEx4 work 8 mux2t1_n 0 22 XL0fNWmo_hcIF^7_9AzT?2
+!i122 66
+l35
+R141
+VE_>5B[m[Ojo^QNb8cT@kE1
+!s100 d:QoFCj`0YJ98]dmY^JSi1
+R7
+32
+R145
+!i10b 1
+R113
+R146
+R147
+!i113 0
+R12
+R13
+Emux32t1
+Z148 w1664234800
+R2
+R3
+!i122 67
+R0
+Z149 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux32t1.vhd
+Z150 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux32t1.vhd
+l0
+R62
+V@il_iT9^D`cP81O_maoOn3
+!s100 zB]CW2hbzNe;RUbFiHB;X0
+R7
+32
+Z151 !s110 1670209016
+!i10b 1
+Z152 !s108 1670209016.000000
+Z153 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux32t1.vhd|
+Z154 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/mux32t1.vhd|
+!i113 0
+R12
+R13
+Adataflow
+R2
+R3
+DEx4 work 7 mux32t1 0 22 @il_iT9^D`cP81O_maoOn3
+!i122 67
+l58
+L57 37
+VDG7>mIHhMnzFM40f9ZHaA3
+!s100 z[7kJWFDEe[[;nJG^LOgO1
+R7
+32
+R151
+!i10b 1
+R152
+R153
+R154
+!i113 0
+R12
+R13
+Enorg2
+Z155 w1667233798
+R2
+R3
+!i122 68
+R0
+Z156 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/norg2.vhd
+Z157 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/norg2.vhd
+l0
+R47
+VmJ56@L_QGcCGCWDNaH2HK3
+!s100 <c5Q`[VWaWLVW0M6aDR<b2
+R7
+32
+R151
+!i10b 1
+R152
+Z158 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/norg2.vhd|
+Z159 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/norg2.vhd|
+!i113 0
+R12
+R13
+Adataflow
+R2
+R3
+DEx4 work 5 norg2 0 22 mJ56@L_QGcCGCWDNaH2HK3
+!i122 68
+l24
+L23 6
+VGhV7@8;[kZ>=IWD=ajcom2
+!s100 ;jljE58UDT0D_@`2FM@g@3
+R7
+32
+R151
+!i10b 1
+R152
+R158
+R159
+!i113 0
+R12
+R13
+Enorg_n
+Z160 w1667233859
+R2
+R3
+!i122 69
+R0
+Z161 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/norg_N.vhd
+Z162 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/norg_N.vhd
+l0
+R37
+V4ZG<V:K6]M8eIk_Rb9dg]0
+!s100 U6:P7NGl43b5D]A<MalRF2
+R7
+32
+R151
+!i10b 1
+R152
+Z163 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/norg_N.vhd|
+Z164 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/norg_N.vhd|
+!i113 0
+R12
+R13
+Astructural
+R2
+R3
+DEx4 work 6 norg_n 0 22 4ZG<V:K6]M8eIk_Rb9dg]0
+!i122 69
+l32
+R40
+VgPh>4RPWjALOz@`9>na?=1
+!s100 l4FaDhKz@C2MQ>Jb:?3f]3
+R7
+32
+R151
+!i10b 1
+R152
+R163
+R164
+!i113 0
+R12
+R13
+Eonescomp
+Z165 w1662425194
+R2
+R3
+!i122 70
+R0
+Z166 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/onesComp.vhd
+Z167 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/onesComp.vhd
+l0
+R37
+V?]fgRTmUCT8VA2nj<H@@[0
+!s100 hR[R3=1B4z0LWhF;WIO^43
+R7
+32
+R151
+!i10b 1
+R152
+Z168 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/onesComp.vhd|
+Z169 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/onesComp.vhd|
+!i113 0
+R12
+R13
+Astructural
+R2
+R3
+DEx4 work 8 onescomp 0 22 ?]fgRTmUCT8VA2nj<H@@[0
+!i122 70
+l31
+L23 18
+V^6zREl]USjZBGiMQzQ]8G3
+!s100 S9Q0;<4mY@VI2SVc]?O?U3
+R7
+32
+R151
+!i10b 1
+R152
+R168
+R169
+!i113 0
+R12
+R13
+Eorg2
+R27
+R2
+R3
+!i122 71
+R0
+Z170 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/org2.vhd
+Z171 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/org2.vhd
+l0
+R30
+VhOiEZ0HVFKUfoceE;g4CN1
+!s100 hJAZ>EB8bm_e<^5IFaP9e1
+R7
+32
+Z172 !s110 1670209017
+!i10b 1
+R152
+Z173 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/org2.vhd|
+Z174 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/org2.vhd|
+!i113 0
+R12
+R13
+Adataflow
+R2
+R3
+DEx4 work 4 org2 0 22 hOiEZ0HVFKUfoceE;g4CN1
+!i122 71
+l32
+R33
+VeLGLG944lJMT]Df59N0F92
+!s100 nma>Pa=mMW`KzzjeW=1[d1
+R7
+32
+R172
+!i10b 1
+R152
+R173
+R174
+!i113 0
+R12
+R13
+Eorg_n
+Z175 w1667229344
+R2
+R3
+!i122 72
+R0
+Z176 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/org_N.vhd
+Z177 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/org_N.vhd
+l0
+R37
+V2P[5mKS?Ria]A=QKT<T891
+!s100 dC:?2JBLm5V0?Ln9@?g1F1
+R7
+32
+R172
+!i10b 1
+Z178 !s108 1670209017.000000
+Z179 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/org_N.vhd|
+Z180 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/org_N.vhd|
+!i113 0
+R12
+R13
+Astructural
+R2
+R3
+DEx4 work 5 org_n 0 22 2P[5mKS?Ria]A=QKT<T891
+!i122 72
+l32
+R40
+V4IkY3UKUVT]1ik3Nho=hf0
+!s100 YN6`CX5<ISMTPZ[5Q2YD:3
+R7
+32
+R172
+!i10b 1
+R178
+R179
+R180
+!i113 0
+R12
+R13
+Epc
+Z181 w1668616762
+R80
+R2
+R3
+!i122 73
+R0
+Z182 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/PC.vhd
+Z183 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/PC.vhd
+l0
+R24
+V?15_AdAb28DnAY]2?9`EO2
+!s100 C9an`2<25a]W`3[fLeI`N0
+R7
+32
+R172
+!i10b 1
+R178
+Z184 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/PC.vhd|
+Z185 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/PC.vhd|
+!i113 0
+R12
+R13
+Astructural
+R80
+R2
+R3
+DEx4 work 2 pc 0 22 ?15_AdAb28DnAY]2?9`EO2
+!i122 73
+l32
+L23 22
+VECQJ_A[LRgBF>`??jo73b0
+!s100 doMnSYgg<L10>WdG[P:W62
+R7
+32
+R172
+!i10b 1
+R178
+R184
+R185
+!i113 0
+R12
+R13
+Ereplqb
+Z186 w1667439892
+R2
+R3
+!i122 74
+R0
+Z187 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/replqb.vhd
+Z188 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/replqb.vhd
+l0
+R47
+VmFL]C4mIDEEOJLb:2jJf^2
+!s100 LRbl^dJU10fEQE@VP@``C3
+R7
+32
+Z189 !s110 1670209019
+!i10b 1
+Z190 !s108 1670209019.000000
+Z191 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/replqb.vhd|
+Z192 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/replqb.vhd|
+!i113 0
+R12
+R13
+Adataflow
+R2
+R3
+DEx4 work 6 replqb 0 22 mFL]C4mIDEEOJLb:2jJf^2
+!i122 74
+l28
+L22 13
+VfkM<253dOoTX5:ieC_;Zn3
+!s100 e7;`9MB;`CdM_9bB[MOzF3
+R7
+32
+R189
+!i10b 1
+R190
+R191
+R192
+!i113 0
+R12
+R13
+Eslt
+Z193 w1667525534
+R2
+R3
+!i122 75
+R0
+Z194 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/slt.vhd
+Z195 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/slt.vhd
+l0
+R47
+Vi<>AjQoTWF_[I_K[Y6hR23
+!s100 zZRKQB[J=X0_`24ZW4Ann3
+R7
+32
+R189
+!i10b 1
+R190
+Z196 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/slt.vhd|
+Z197 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/slt.vhd|
+!i113 0
+R12
+R13
+Adataflow
+R2
+R3
+DEx4 work 3 slt 0 22 i<>AjQoTWF_[I_K[Y6hR23
+!i122 75
+l24
+L22 9
+Vz`7H2Y1K9on]hY`:V9bR53
+!s100 =IHY1L62N`NJzi:PCEAY=0
+R7
+32
+R189
+!i10b 1
+R190
+R196
+R197
+!i113 0
+R12
+R13
+Etb_fetchunit
+Z198 w1670208939
+Z199 DPx4 ieee 16 std_logic_textio 0 22 C8j>g0lzF^EAA]5<S6PY32
+R2
+R3
+!i122 1
+R0
+Z200 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/test/tb_fetchUnit.vhd
+Z201 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/test/tb_fetchUnit.vhd
+l0
+R41
+Vjda1?j`AJ<N3TFG`Az_mi0
+!s100 i_SkmTUGhP1hOWo<UfeEK0
+R7
+32
+Z202 !s110 1670208943
+!i10b 1
+Z203 !s108 1670208943.000000
+Z204 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/test/tb_fetchUnit.vhd|
+Z205 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/test/tb_fetchUnit.vhd|
+!i113 0
+R12
+R13
+Aarch
+R199
+R2
+R3
+DEx4 work 12 tb_fetchunit 0 22 jda1?j`AJ<N3TFG`Az_mi0
+!i122 1
+l55
+L22 127
+VE5WMbM[@EL62gFHCObCk_0
+!s100 cc@Heb@_JnEFO3=FTe6IW3
+R7
+32
+R202
+!i10b 1
+R203
+R204
+R205
+!i113 0
+R12
+R13
+Eupgradedalu
+Z206 w1669958170
+R2
+R3
+!i122 76
+R0
+Z207 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/upgradedALU.vhd
+Z208 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/upgradedALU.vhd
+l0
+R47
+VD_OYkKmc0>S4b<j=[EQ[Y3
+!s100 RacC_IIdM087;=3[QCnJf2
+R7
+32
+R189
+!i10b 1
+R190
+Z209 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/upgradedALU.vhd|
+Z210 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/upgradedALU.vhd|
+!i113 0
+R12
+R13
+Amixed
+R2
+R3
+DEx4 work 11 upgradedalu 0 22 D_OYkKmc0>S4b<j=[EQ[Y3
+!i122 76
+l81
+L28 104
+V@EAdcNK2bKCfLDVmGje>;0
+!s100 BUbF[Q_52bnI?DZ0BP?AN2
+R7
+32
+R189
+!i10b 1
+R190
+R209
+R210
+!i113 0
+R12
+R13
+Exorg2
+Z211 w1666997067
+R2
+R3
+!i122 77
+R0
+Z212 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/xorg2.vhd
+Z213 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/xorg2.vhd
+l0
+R133
+Vg25`Og_IieW`6Rkb>?h;n3
+!s100 Jn;`89YMkjc0YY>5hQKme2
+R7
+32
+R189
+!i10b 1
+R190
+Z214 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/xorg2.vhd|
+Z215 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/xorg2.vhd|
+!i113 0
+R12
+R13
+Adataflow
+R2
+R3
+DEx4 work 5 xorg2 0 22 g25`Og_IieW`6Rkb>?h;n3
+!i122 77
+l30
+L29 6
+V`0Y=C@K[h[2`WR08^g^NK1
+!s100 c>8g>X0VTM1Gi2n49F@<G0
+R7
+32
+R189
+!i10b 1
+R190
+R214
+R215
+!i113 0
+R12
+R13
+Exorg_n
+Z216 w1666999223
+R2
+R3
+!i122 78
+R0
+Z217 8/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/xorg_N.vhd
+Z218 F/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/xorg_N.vhd
+l0
+R37
+V;GT5E?S2B7Vi^g]UAJgZ81
+!s100 ]VAl9@h3RKANdZ6f?PAM<2
+R7
+32
+R189
+!i10b 1
+R190
+Z219 !s90 -reportprogress|300|-work|work|/home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/xorg_N.vhd|
+Z220 !s107 /home/ahuggins/Desktop/381_Repo/Cpre381/cpre381-toolflow/proj/src/xorg_N.vhd|
+!i113 0
+R12
+R13
+Astructural
+R2
+R3
+Z221 DEx4 work 6 xorg_n 0 22 ;GT5E?S2B7Vi^g]UAJgZ81
+!i122 78
+l32
+R40
+Z222 VWHzG9;j[VZ:A8mOz9`JT63
+Z223 !s100 _GiCSJ>`T2<6INOnPVkLX3
+R7
+32
+R189
+!i10b 1
+R190
+R219
+R220
+!i113 0
+R12
+R13
